@@ -300,6 +300,24 @@ NSDictionary *allShiftActions = nil;
 	ShiftItAction *center = [[ShiftItAction alloc] initWithIdentifier:@"center" label:@"Center" uiTag:10 action:&ShiftIt_Center];
 	[dict setObject:center forKey:[center identifier]];
 	
+	ShiftItAction *jleft = [[ShiftItAction alloc] initWithIdentifier:@"jleft" label:@"Jump Left" uiTag:11 action:&ShiftIt_Center];
+	[dict setObject:jleft forKey:[jleft identifier]];
+	ShiftItAction *jright = [[ShiftItAction alloc] initWithIdentifier:@"jright" label:@"Jump Right" uiTag:12 action:&ShiftIt_Center];
+	[dict setObject:jright forKey:[jright identifier]];
+	ShiftItAction *jup = [[ShiftItAction alloc] initWithIdentifier:@"jup" label:@"Jump Up" uiTag:13 action:&ShiftIt_Center];
+	[dict setObject:jup forKey:[jup identifier]];
+	ShiftItAction *jdown = [[ShiftItAction alloc] initWithIdentifier:@"jdown" label:@"Jump Down" uiTag:14 action:&ShiftIt_Center];
+	[dict setObject:jdown forKey:[jdown identifier]];
+
+	ShiftItAction *sleft = [[ShiftItAction alloc] initWithIdentifier:@"sleft" label:@"Shrink H" uiTag:15 action:&ShiftIt_Center];
+	[dict setObject:sleft forKey:[sleft identifier]];
+	ShiftItAction *sright = [[ShiftItAction alloc] initWithIdentifier:@"sright" label:@"Grow H" uiTag:16 action:&ShiftIt_Center];
+	[dict setObject:sright forKey:[sright identifier]];
+	ShiftItAction *sup = [[ShiftItAction alloc] initWithIdentifier:@"sup" label:@"Shrink V" uiTag:17 action:&ShiftIt_Center];
+	[dict setObject:sup forKey:[sup identifier]];
+	ShiftItAction *sdown = [[ShiftItAction alloc] initWithIdentifier:@"sdown" label:@"Grow V" uiTag:18 action:&ShiftIt_Center];
+	[dict setObject:sdown forKey:[sdown identifier]];
+	
 	allShiftActions = [[NSDictionary dictionaryWithDictionary:dict] retain];
 }
 
