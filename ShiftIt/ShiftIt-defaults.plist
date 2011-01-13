@@ -5,18 +5,53 @@
 	<key>shiftItshowMenu</key>
 	<true/>
 
+        <!-- Quarters -->
 	<key>blKeyCode</key>
 	<integer>83</integer>
 	<key>blModifiers</key>
-	<integer>1048576</integer>
-	<key>bottomKeyCode</key>
-	<integer>84</integer>
-	<key>bottomModifiers</key>
-	<integer>1048576</integer>
+	<integer>1572864</integer>
 	<key>brKeyCode</key>
 	<integer>85</integer>
 	<key>brModifiers</key>
-	<integer>1048576</integer>
+	<integer>1572864</integer>
+	<key>tlKeyCode</key>
+	<integer>89</integer>
+	<key>tlModifiers</key>
+	<integer>1572864</integer>
+	<key>trKeyCode</key>
+	<integer>92</integer>
+	<key>trModifiers</key>
+	<integer>1572864</integer>
+
+        <!-- Center, fullscreen -->
+	<key>centerKeyCode</key>
+	<integer>87</integer>
+	<key>centerModifiers</key>
+	<integer>1572864</integer>
+	<key>fullscreenKeyCode</key>
+	<integer>82</integer>
+	<key>fullscreenModifiers</key>
+	<integer>1572864</integer>
+
+        <!-- Left, right, top, bottom halves  -->
+	<key>leftKeyCode</key>
+	<integer>86</integer>
+	<key>leftModifiers</key>
+	<integer>1572864</integer>
+	<key>rightKeyCode</key>
+	<integer>88</integer>
+	<key>rightModifiers</key>
+	<integer>1572864</integer>
+	<key>topKeyCode</key>
+	<integer>91</integer>
+	<key>topModifiers</key>
+	<integer>1572864</integer>
+	<key>bottomKeyCode</key>
+	<integer>84</integer>
+	<key>bottomModifiers</key>
+	<integer>1572864</integer>
+
+        <!-- Segmented jumps -->
 	<key>jdownKeyCode</key>
 	<integer>125</integer>
 	<key>jdownModifiers</key>
@@ -33,14 +68,8 @@
 	<integer>126</integer>
 	<key>jupModifiers</key>
 	<integer>10223616</integer>
-	<key>leftKeyCode</key>
-	<integer>86</integer>
-	<key>leftModifiers</key>
-	<integer>1048576</integer>
-	<key>rightKeyCode</key>
-	<integer>88</integer>
-	<key>rightModifiers</key>
-	<integer>1048576</integer>
+
+        <!-- Segmented sizes -->
 	<key>sdownKeyCode</key>
 	<integer>125</integer>
 	<key>sdownModifiers</key>
@@ -57,26 +86,5 @@
 	<integer>126</integer>
 	<key>supModifiers</key>
 	<integer>10092544</integer>
-	<key>tlKeyCode</key>
-	<integer>89</integer>
-	<key>tlModifiers</key>
-	<integer>1048576</integer>
-	<key>topKeyCode</key>
-	<integer>91</integer>
-	<key>topModifiers</key>
-	<integer>1048576</integer>
-	<key>trKeyCode</key>
-	<integer>92</integer>
-	<key>trModifiers</key>
-	<integer>1048576</integer>
-
-	<key>centerKeyCode</key>
-	<integer>87</integer>
-	<key>centerModifiers</key>
-	<integer>1048576</integer>
-	<key>fullscreenKeyCode</key>
-	<integer>82</integer>
-	<key>fullscreenModifiers</key>
-	<integer>1048576</integer>
 </dict>
 </plist>
