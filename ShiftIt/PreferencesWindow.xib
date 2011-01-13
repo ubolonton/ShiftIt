@@ -249,8 +249,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="250194698"/>
 													<nil key="autosaveName"/>
-													<integer value="23" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="86" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -271,8 +271,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="718136736"/>
 													<nil key="autosaveName"/>
-													<integer value="22" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="88" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -293,12 +293,10 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="232415267"/>
 													<nil key="autosaveName"/>
-													<integer value="26" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="91" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
-													<string key="keyChars">7</string>
-													<string key="keyCharsIgnoringModifiers">7</string>
 													<boolean value="YES" key="allowsKeyOnly"/>
 													<boolean value="NO" key="escapeKeysRecord"/>
 													<boolean value="YES" key="isAnimating"/>
@@ -317,8 +315,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="668032"/>
 													<nil key="autosaveName"/>
-													<integer value="25" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="84" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -404,8 +402,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="613314723"/>
 													<nil key="autosaveName"/>
-													<integer value="18" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="89" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -426,8 +424,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="189561737"/>
 													<nil key="autosaveName"/>
-													<integer value="19" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="92" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -448,8 +446,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="927077618"/>
 													<nil key="autosaveName"/>
-													<integer value="20" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="83" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -470,8 +468,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="241619608"/>
 													<nil key="autosaveName"/>
-													<integer value="21" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="85" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -556,8 +554,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="517778483"/>
 													<nil key="autosaveName"/>
-													<integer value="3" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="82" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -578,8 +576,8 @@
 													<int key="NSCellFlags2">0</int>
 													<reference key="NSControlView" ref="325475674"/>
 													<nil key="autosaveName"/>
-													<integer value="8" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
+													<integer value="87" key="keyComboCode"/>
+													<integer value="1572864" key="keyComboFlags"/>
 													<integer value="10354688" key="allowedFlags"/>
 													<integer value="0" key="requiredFlags"/>
 													<boolean value="YES" key="allowsKeyOnly"/>
@@ -618,94 +616,6 @@
 													<reference key="NSControlView" ref="48197475"/>
 													<reference key="NSBackgroundColor" ref="925788107"/>
 													<reference key="NSTextColor" ref="853889837"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="148754270">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 276}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1011</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="649480666">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="148754270"/>
-													<nil key="autosaveName"/>
-													<integer value="123" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="36679190">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 252}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1012</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="129722054">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="36679190"/>
-													<nil key="autosaveName"/>
-													<integer value="124" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="433052835">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 228}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1013</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="93439518">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="433052835"/>
-													<nil key="autosaveName"/>
-													<integer value="126" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="974289511">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 204}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1014</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="20379132">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="974289511"/>
-													<nil key="autosaveName"/>
-													<integer value="125" key="keyComboCode"/>
-													<integer value="1835008" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
 												</object>
 											</object>
 											<object class="NSTextField" id="787884839">
@@ -771,100 +681,6 @@
 													<reference key="NSControlView" ref="839914458"/>
 													<reference key="NSBackgroundColor" ref="925788107"/>
 													<reference key="NSTextColor" ref="853889837"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="243976817">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 174}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1015</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="947006219">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="243976817"/>
-													<nil key="autosaveName"/>
-													<integer value="123" key="keyComboCode"/>
-													<integer value="10092544" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="793480312">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 150}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1016</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="714686945">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="793480312"/>
-													<nil key="autosaveName"/>
-													<integer value="124" key="keyComboCode"/>
-													<integer value="10092544" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<string key="keyChars"></string>
-													<string key="keyCharsIgnoringModifiers"></string>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="44907104">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 126}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1017</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="584820500">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="44907104"/>
-													<nil key="autosaveName"/>
-													<integer value="126" key="keyComboCode"/>
-													<integer value="10092544" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<string key="keyChars"></string>
-													<string key="keyCharsIgnoringModifiers"></string>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
-												</object>
-											</object>
-											<object class="SRRecorderControl" id="251449830">
-												<reference key="NSNextResponder" ref="41894700"/>
-												<int key="NSvFlags">298</int>
-												<string key="NSFrame">{{343, 102}, {147, 22}}</string>
-												<reference key="NSSuperview" ref="41894700"/>
-												<int key="NSTag">1018</int>
-												<bool key="NSEnabled">YES</bool>
-												<object class="SRRecorderCell" key="NSCell" id="233795382">
-													<int key="NSCellFlags">130560</int>
-													<int key="NSCellFlags2">0</int>
-													<reference key="NSControlView" ref="251449830"/>
-													<nil key="autosaveName"/>
-													<integer value="125" key="keyComboCode"/>
-													<integer value="10092544" key="keyComboFlags"/>
-													<integer value="10354688" key="allowedFlags"/>
-													<integer value="0" key="requiredFlags"/>
-													<string key="keyChars"></string>
-													<string key="keyCharsIgnoringModifiers"></string>
-													<boolean value="YES" key="allowsKeyOnly"/>
-													<boolean value="NO" key="escapeKeysRecord"/>
-													<boolean value="YES" key="isAnimating"/>
-													<integer value="1" key="style"/>
 												</object>
 											</object>
 											<object class="NSTextField" id="358164412">
@@ -949,6 +765,182 @@
 													<string key="NSKeyEquivalent"/>
 													<int key="NSPeriodicDelay">200</int>
 													<int key="NSPeriodicInterval">25</int>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="872482515">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 279}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1011</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="396434706">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="872482515"/>
+													<nil key="autosaveName"/>
+													<integer value="123" key="keyComboCode"/>
+													<integer value="10223616" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="244848595">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 255}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1012</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="361602884">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="244848595"/>
+													<nil key="autosaveName"/>
+													<integer value="124" key="keyComboCode"/>
+													<integer value="10223616" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="426418477">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 231}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1013</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="546939385">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="426418477"/>
+													<nil key="autosaveName"/>
+													<integer value="126" key="keyComboCode"/>
+													<integer value="10223616" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="1041037632">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 207}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1014</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="476062770">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="1041037632"/>
+													<nil key="autosaveName"/>
+													<integer value="125" key="keyComboCode"/>
+													<integer value="10223616" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="1036833184">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 177}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1015</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="83106420">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="1036833184"/>
+													<nil key="autosaveName"/>
+													<integer value="123" key="keyComboCode"/>
+													<integer value="10092544" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="136691982">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 153}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1016</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="349185279">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="136691982"/>
+													<nil key="autosaveName"/>
+													<integer value="124" key="keyComboCode"/>
+													<integer value="10092544" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="993945556">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 129}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1017</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="629095168">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="993945556"/>
+													<nil key="autosaveName"/>
+													<integer value="126" key="keyComboCode"/>
+													<integer value="10092544" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
+												</object>
+											</object>
+											<object class="SRRecorderControl" id="1002527779">
+												<reference key="NSNextResponder" ref="41894700"/>
+												<int key="NSvFlags">298</int>
+												<string key="NSFrame">{{345, 105}, {147, 22}}</string>
+												<reference key="NSSuperview" ref="41894700"/>
+												<int key="NSTag">1018</int>
+												<bool key="NSEnabled">YES</bool>
+												<object class="SRRecorderCell" key="NSCell" id="529708912">
+													<int key="NSCellFlags">130560</int>
+													<int key="NSCellFlags2">0</int>
+													<reference key="NSControlView" ref="1002527779"/>
+													<nil key="autosaveName"/>
+													<integer value="125" key="keyComboCode"/>
+													<integer value="10092544" key="keyComboFlags"/>
+													<integer value="10354688" key="allowedFlags"/>
+													<integer value="0" key="requiredFlags"/>
+													<boolean value="YES" key="allowsKeyOnly"/>
+													<boolean value="NO" key="escapeKeysRecord"/>
+													<boolean value="YES" key="isAnimating"/>
+													<integer value="1" key="style"/>
 												</object>
 											</object>
 										</object>
@@ -1222,66 +1214,66 @@
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="433052835"/>
+						<reference key="source" ref="872482515"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">657</int>
+					<int key="connectionID">669</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="36679190"/>
+						<reference key="source" ref="244848595"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">658</int>
+					<int key="connectionID">672</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="148754270"/>
+						<reference key="source" ref="426418477"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">659</int>
+					<int key="connectionID">675</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="251449830"/>
+						<reference key="source" ref="1041037632"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">660</int>
+					<int key="connectionID">678</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="44907104"/>
+						<reference key="source" ref="1036833184"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">663</int>
+					<int key="connectionID">681</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="793480312"/>
+						<reference key="source" ref="136691982"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">664</int>
+					<int key="connectionID">684</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="243976817"/>
+						<reference key="source" ref="993945556"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">665</int>
+					<int key="connectionID">687</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">delegate</string>
-						<reference key="source" ref="974289511"/>
+						<reference key="source" ref="1002527779"/>
 						<reference key="destination" ref="1001"/>
 					</object>
-					<int key="connectionID">666</int>
+					<int key="connectionID">690</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -1383,23 +1375,23 @@
 							<reference ref="325475674"/>
 							<reference ref="331713058"/>
 							<reference ref="48197475"/>
-							<reference ref="148754270"/>
-							<reference ref="36679190"/>
-							<reference ref="433052835"/>
-							<reference ref="974289511"/>
 							<reference ref="787884839"/>
 							<reference ref="34791514"/>
 							<reference ref="263914416"/>
 							<reference ref="839914458"/>
-							<reference ref="243976817"/>
-							<reference ref="793480312"/>
-							<reference ref="251449830"/>
 							<reference ref="358164412"/>
 							<reference ref="873371803"/>
 							<reference ref="200166512"/>
 							<reference ref="487765293"/>
-							<reference ref="44907104"/>
 							<reference ref="646933128"/>
+							<reference ref="872482515"/>
+							<reference ref="244848595"/>
+							<reference ref="426418477"/>
+							<reference ref="1036833184"/>
+							<reference ref="136691982"/>
+							<reference ref="993945556"/>
+							<reference ref="1002527779"/>
+							<reference ref="1041037632"/>
 						</object>
 						<reference key="parent" ref="406584626"/>
 					</object>
@@ -1815,46 +1807,6 @@
 						<reference key="parent" ref="646933128"/>
 					</object>
 					<object class="IBObjectRecord">
-						<int key="objectID">617</int>
-						<reference key="object" ref="148754270"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="649480666"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_left</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">618</int>
-						<reference key="object" ref="36679190"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="129722054"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_right</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">619</int>
-						<reference key="object" ref="433052835"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="93439518"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_top</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">620</int>
-						<reference key="object" ref="974289511"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="20379132"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_bottom</string>
-					</object>
-					<object class="IBObjectRecord">
 						<int key="objectID">621</int>
 						<reference key="object" ref="787884839"/>
 						<object class="NSMutableArray" key="children">
@@ -1889,46 +1841,6 @@
 							<reference ref="140787067"/>
 						</object>
 						<reference key="parent" ref="41894700"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">625</int>
-						<reference key="object" ref="243976817"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="947006219"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_tl</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">626</int>
-						<reference key="object" ref="793480312"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="714686945"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_tr</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">627</int>
-						<reference key="object" ref="44907104"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="584820500"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_bl</string>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">628</int>
-						<reference key="object" ref="251449830"/>
-						<object class="NSMutableArray" key="children">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="233795382"/>
-						</object>
-						<reference key="parent" ref="41894700"/>
-						<string key="objectName">sr_br</string>
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">629</int>
@@ -1987,26 +1899,6 @@
 						<reference key="parent" ref="358164412"/>
 					</object>
 					<object class="IBObjectRecord">
-						<int key="objectID">645</int>
-						<reference key="object" ref="233795382"/>
-						<reference key="parent" ref="251449830"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">646</int>
-						<reference key="object" ref="584820500"/>
-						<reference key="parent" ref="44907104"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">647</int>
-						<reference key="object" ref="714686945"/>
-						<reference key="parent" ref="793480312"/>
-					</object>
-					<object class="IBObjectRecord">
-						<int key="objectID">648</int>
-						<reference key="object" ref="947006219"/>
-						<reference key="parent" ref="243976817"/>
-					</object>
-					<object class="IBObjectRecord">
 						<int key="objectID">649</int>
 						<reference key="object" ref="140787067"/>
 						<reference key="parent" ref="839914458"/>
@@ -2027,24 +1919,124 @@
 						<reference key="parent" ref="787884839"/>
 					</object>
 					<object class="IBObjectRecord">
-						<int key="objectID">653</int>
-						<reference key="object" ref="20379132"/>
-						<reference key="parent" ref="974289511"/>
+						<int key="objectID">667</int>
+						<reference key="object" ref="872482515"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="396434706"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_left</string>
 					</object>
 					<object class="IBObjectRecord">
-						<int key="objectID">654</int>
-						<reference key="object" ref="93439518"/>
-						<reference key="parent" ref="433052835"/>
+						<int key="objectID">668</int>
+						<reference key="object" ref="396434706"/>
+						<reference key="parent" ref="872482515"/>
 					</object>
 					<object class="IBObjectRecord">
-						<int key="objectID">655</int>
-						<reference key="object" ref="129722054"/>
-						<reference key="parent" ref="36679190"/>
+						<int key="objectID">670</int>
+						<reference key="object" ref="244848595"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="361602884"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_right</string>
 					</object>
 					<object class="IBObjectRecord">
-						<int key="objectID">656</int>
-						<reference key="object" ref="649480666"/>
-						<reference key="parent" ref="148754270"/>
+						<int key="objectID">671</int>
+						<reference key="object" ref="361602884"/>
+						<reference key="parent" ref="244848595"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">673</int>
+						<reference key="object" ref="426418477"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="546939385"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_top</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">674</int>
+						<reference key="object" ref="546939385"/>
+						<reference key="parent" ref="426418477"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">676</int>
+						<reference key="object" ref="1041037632"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="476062770"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_bottom</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">677</int>
+						<reference key="object" ref="476062770"/>
+						<reference key="parent" ref="1041037632"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">679</int>
+						<reference key="object" ref="1036833184"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="83106420"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_tl</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">680</int>
+						<reference key="object" ref="83106420"/>
+						<reference key="parent" ref="1036833184"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">682</int>
+						<reference key="object" ref="136691982"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="349185279"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_tr</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">683</int>
+						<reference key="object" ref="349185279"/>
+						<reference key="parent" ref="136691982"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">685</int>
+						<reference key="object" ref="993945556"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="629095168"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_bl</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">686</int>
+						<reference key="object" ref="629095168"/>
+						<reference key="parent" ref="993945556"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">688</int>
+						<reference key="object" ref="1002527779"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="529708912"/>
+						</object>
+						<reference key="parent" ref="41894700"/>
+						<string key="objectName">sr_br</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">689</int>
+						<reference key="object" ref="529708912"/>
+						<reference key="parent" ref="1002527779"/>
 					</object>
 				</object>
 			</object>
@@ -2125,16 +2117,8 @@
 					<string>606.IBPluginDependency</string>
 					<string>606.IBViewBoundsToFrameTransform</string>
 					<string>607.IBPluginDependency</string>
-					<string>617.IBPluginDependency</string>
-					<string>617.IBViewBoundsToFrameTransform</string>
-					<string>618.IBPluginDependency</string>
-					<string>618.IBViewBoundsToFrameTransform</string>
-					<string>619.IBPluginDependency</string>
-					<string>619.IBViewBoundsToFrameTransform</string>
 					<string>62.IBPluginDependency</string>
 					<string>62.IBViewBoundsToFrameTransform</string>
-					<string>620.IBPluginDependency</string>
-					<string>620.IBViewBoundsToFrameTransform</string>
 					<string>621.IBPluginDependency</string>
 					<string>621.IBViewBoundsToFrameTransform</string>
 					<string>622.IBPluginDependency</string>
@@ -2143,14 +2127,6 @@
 					<string>623.IBViewBoundsToFrameTransform</string>
 					<string>624.IBPluginDependency</string>
 					<string>624.IBViewBoundsToFrameTransform</string>
-					<string>625.IBPluginDependency</string>
-					<string>625.IBViewBoundsToFrameTransform</string>
-					<string>626.IBPluginDependency</string>
-					<string>626.IBViewBoundsToFrameTransform</string>
-					<string>627.IBPluginDependency</string>
-					<string>627.IBViewBoundsToFrameTransform</string>
-					<string>628.IBPluginDependency</string>
-					<string>628.IBViewBoundsToFrameTransform</string>
 					<string>629.IBPluginDependency</string>
 					<string>629.IBViewBoundsToFrameTransform</string>
 					<string>63.IBPluginDependency</string>
@@ -2173,7 +2149,23 @@
 					<string>652.IBPluginDependency</string>
 					<string>66.IBPluginDependency</string>
 					<string>66.IBViewBoundsToFrameTransform</string>
+					<string>667.IBPluginDependency</string>
+					<string>667.IBViewBoundsToFrameTransform</string>
 					<string>67.IBPluginDependency</string>
+					<string>670.IBPluginDependency</string>
+					<string>670.IBViewBoundsToFrameTransform</string>
+					<string>673.IBPluginDependency</string>
+					<string>673.IBViewBoundsToFrameTransform</string>
+					<string>676.IBPluginDependency</string>
+					<string>676.IBViewBoundsToFrameTransform</string>
+					<string>679.IBPluginDependency</string>
+					<string>679.IBViewBoundsToFrameTransform</string>
+					<string>682.IBPluginDependency</string>
+					<string>682.IBViewBoundsToFrameTransform</string>
+					<string>685.IBPluginDependency</string>
+					<string>685.IBViewBoundsToFrameTransform</string>
+					<string>688.IBPluginDependency</string>
+					<string>688.IBViewBoundsToFrameTransform</string>
 					<string>69.IBPluginDependency</string>
 				</object>
 				<object class="NSMutableArray" key="dict.values">
@@ -2301,25 +2293,9 @@
 						<bytes key="NSTransformStruct">P4AAAL+AAABDOgAAwgQAAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AULQAABDiQAAA</bytes>
-					</object>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AULQAABDegAAA</bytes>
-					</object>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AULQAABDYgAAA</bytes>
-					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<object class="NSAffineTransform">
 						<bytes key="NSTransformStruct">P4AAAL+AAABBgAAAw0UAAA</bytes>
-					</object>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AULQAABDSgAAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<object class="NSAffineTransform">
@@ -2336,22 +2312,6 @@
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<object class="NSAffineTransform">
 						<bytes key="NSTransformStruct">P4AAAL+AAABCCAAAw1sAAA</bytes>
-					</object>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AULQAABDLAAAA</bytes>
-					</object>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AULQAABDFAAAA</bytes>
-					</object>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AUOrgABC/AAAA</bytes>
-					</object>
-					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
-					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">AULQAABCyAAAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<object class="NSAffineTransform">
@@ -2387,7 +2347,39 @@
 					<object class="NSAffineTransform">
 						<bytes key="NSTransformStruct">P4AAAL+AAABCDAAAwwsAAA</bytes>
 					</object>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AULGAABDi4AAA</bytes>
+					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AULGAABDfwAAA</bytes>
+					</object>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AULGAABDZwAAA</bytes>
+					</object>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AUOsgABDTwAAA</bytes>
+					</object>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AULGAABDMQAAA</bytes>
+					</object>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AULGAABDGQAAA</bytes>
+					</object>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AULGAABDAQAAA</bytes>
+					</object>
+					<string>net.wafflesoftware.ShortcutRecorder.IB.Leopard</string>
+					<object class="NSAffineTransform">
+						<bytes key="NSTransformStruct">AULGAABC0gAAA</bytes>
+					</object>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 				</object>
 			</object>
@@ -2407,7 +2399,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">666</int>
+			<int key="maxID">690</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
